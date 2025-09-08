@@ -99,6 +99,7 @@
 <text>
 <body>
 <div type="edition" n="urn:cts:greekLit:tlg0533.tlg019.perseus-grc3" xml:lang="grc">
+<div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0533.tlg019.perseus-grc3" n="5">
 <pb n="112"/>
 <l n="1" xml:base="urn:cts:greekLit:tlg0533.tlg019.perseus-grc3">ὅσσαι λωτροχόοι τᾶς Παλλάδος ἔξιτε πᾶσαι,</l>
 <l n="2" xml:base="urn:cts:greekLit:tlg0533.tlg019.perseus-grc3" rend="align(indent)">ἔξιτε· τᾶν ἵππων ἄρτι φρυασσομενᾶν</l>
@@ -247,6 +248,7 @@
 <l n="140" xml:base="urn:cts:greekLit:tlg0533.tlg019.perseus-grc3" rend="align(indent)">χαῖρε θεά, κάδευ δʼ Ἄργεος Ἰναχίω. </l>
 <l n="141" xml:base="urn:cts:greekLit:tlg0533.tlg019.perseus-grc3">χαῖρε καὶ ἐξελάοισα, καὶ ἐς πάλιν αὖτις ἐλάσσαις</l>
 <l n="142" xml:base="urn:cts:greekLit:tlg0533.tlg019.perseus-grc3" rend="align(indent)">ἵππως, καὶ Δαναῶν κλᾶρον ἅπαντα σάω.</l>
+</div>
 </div>
 </body>
 </text>

@@ -98,6 +98,7 @@
     <text>
         <body>
             <div type="edition" n="urn:cts:greekLit:tlg0533.tlg017.perseus-grc3" xml:lang="grc">
+                <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0533.tlg017.perseus-grc3" n="3">
 <l n="1" xml:base="urn:cts:greekLit:tlg0533.tlg017.perseus-grc3">Ἄρτεμιν (οὐ γὰρ ἐλαφρὸν ἀειδόντεσσι λαθέσθαι)</l>
 <l n="2" xml:base="urn:cts:greekLit:tlg0533.tlg017.perseus-grc3">ὑμνέομεν, τῇ τόξα λαγωβολίαι τε μέλονται</l>
 <l n="3" xml:base="urn:cts:greekLit:tlg0533.tlg017.perseus-grc3">καὶ χορὸς ἀμφιλαφὴς καὶ ἐν οὔρεσιν ἑψιάασθαι,</l>
@@ -377,6 +378,7 @@
 <l n="266" xml:base="urn:cts:greekLit:tlg0533.tlg017.perseus-grc3">μηδὲ χορὸν φεύγειν ἐνιαύσιον· οὐδὲ γὰρ Ἱππὼ</l>
 <l n="267" xml:base="urn:cts:greekLit:tlg0533.tlg017.perseus-grc3">ἀκλαυτεὶ περὶ βωμὸν ἀπείπατο κυκλώσασθαι·</l>
 <l n="268" xml:base="urn:cts:greekLit:tlg0533.tlg017.perseus-grc3">χαῖρε μέγα κρείουσα καὶ εὐάντησον ἀοιδῇ.</l></div>
+            </div>
         </body>
     </text>
 </TEI>
