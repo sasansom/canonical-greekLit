@@ -90,6 +90,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text xml:lang="grc">
       <body>
          <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg002.perseus-grc2">
+         <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg002.perseus-grc2" n="2">
          <head>Εἲς Δημήτραν</head>
          <milestone unit="card" n="1" ed="P"/>
             <l n="1">
@@ -626,6 +627,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <l n="493">αὐτὴ καὶ κούρη περικαλλὴς Περσεφόνεια· </l>
             <l n="494">πρόφρονες ἀντʼ ᾠδῆς βίοτον θυμήρεʼ ὄπαζε. </l>
             <l n="495">αὐτὰρ ἐγὼ καὶ σεῖο καὶ ἄλλης μνήσομʼ ἀοιδῆς. </l>
+         </div>
          </div>
       </body>
   </text>

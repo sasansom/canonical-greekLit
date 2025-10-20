@@ -91,6 +91,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg029.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg029.perseus-grc2" n="29">
       <head>Εἲς Ἑστίαν</head>
      
      
@@ -111,6 +112,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="13"><milestone unit="Para" ed="P"/>χαῖρε, Κρόνου θύγατερ, σύ τε καὶ χρυσόρραπις Ἑρμῆς·  </l>
         <l n="14">αὐτὰρ ἐγὼν ὑμέων τε καὶ ἄλλης μνήσομ’ ἀοιδῆς.</l>
 
+      </div>
       </div>
      
     </body>

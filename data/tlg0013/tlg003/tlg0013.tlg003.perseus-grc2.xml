@@ -82,6 +82,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg003.perseus-grc2">
+        <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg003.perseus-grc2" n="3">
         <div type="textpart"><head>Εἲς Ἀπόλλωνα [Δήλιον]</head>
           <milestone unit="card" n="1" ed="P"/>
           <l n="1"><milestone unit="Para" ed="P"/>μνήσομαι οὐδὲ λάθωμαι Ἀπόλλωνος ἑκάτοιο, </l>
@@ -649,6 +650,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-
           <l n="546">αὐτὰρ ἐγὼ καὶ σεῖο καὶ ἄλλης μνήσομʼ ἀοιδῆς. </l>
         </sp>
   </div>
+      </div>
       </div>
     </body>
   </text>

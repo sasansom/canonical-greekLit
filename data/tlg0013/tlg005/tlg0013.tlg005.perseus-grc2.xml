@@ -84,6 +84,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg005.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg005.perseus-grc2" n="5">
       <head>Εἲς Ἀφροδίτην</head>
       <milestone unit="card" n="1" ed="P"/>
         <l n="1"><milestone unit="Para" ed="P"/>μοῦσά μοι ἔννεπε ἔργα πολυχρύσου Ἀφροδίτης, </l>
@@ -404,6 +405,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-
       <l n="291"><milestone unit="Para" ed="P"/>ὣς εἰποῦσʼ ἤιξε πρὸς οὐρανὸν ἠνεμόεντα. </l>
       <l n="292"><milestone unit="Para" ed="P"/>χαῖρε, θεά, Κύπροιο ἐυκτιμένης μεδέουσα· </l>
       <l n="293">σεῦ δʼ ἐγὼ ἀρξάμενος μεταβήσομαι ἄλλον ἐς ὕμνον. </l>
+      </div>
       </div>
     </body>
   </text>

@@ -90,6 +90,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg015.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg015.perseus-grc2" n="15">
       <head>Εἲς Ἡρακλέα Λεοντόθυμον</head>
       
 
@@ -104,6 +105,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="8">ναίει τερπόμενος καὶ ἔχει καλλίσφυρον Ἥβην. </l>
         <l n="9"><milestone unit="Para" ed="P"/>χαῖρε, ἄναξ, Διὸς υἱέ· δίδου δʼ ἀρετήν τε καὶ ὄλβον. </l>
       
+      </div>
       </div>
     </body>
   </text>

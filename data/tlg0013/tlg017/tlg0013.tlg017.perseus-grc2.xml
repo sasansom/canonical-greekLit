@@ -91,6 +91,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg017.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg017.perseus-grc2" n="17">
       <head>Εἲς Διοσκούρους</head>
   
 
@@ -100,6 +101,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="3">τοὺς ὑπὸ Τηϋγέτου κορυφῇς τέκε πότνια Λήδη </l>
         <l n="4">λάθρη ὑποδμηθεῖσα κελαινεφέι Κρονίωνι. </l>
         <l n="5"><milestone unit="Para" ed="P"/>χαίρετε, Τυνδαρίδαι, ταχέων ἐπιβήτορες ἵππων. </l>
+      </div>
       </div>
     </body>
   </text>

@@ -91,6 +91,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg016.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg016.perseus-grc2" n="16">
       <head>Εἲς Ἀσκληπιόν</head>
       
         <milestone unit="card" n="1" ed="P"/>
@@ -100,6 +101,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="4">χάρμα μέγʼ ἀνθρώποισι, κακῶν θελκτῆρʼ ὀδυνάων. </l>
         <l n="5"><milestone unit="Para" ed="P"/>καὶ σὺ μὲν οὕτω χαῖρε, ἄναξ· λίτομαι δέ σʼ
           ἀοιδῇ.</l>
+      </div>
       </div>
     
     </body>

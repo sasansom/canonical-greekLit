@@ -90,6 +90,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg025.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg025.perseus-grc2" n="25">
       <head>Εἲς Μούσας Καὶ Ἀπόλλωνα</head>
      
         <milestone unit="card" n="1" ed="P"/>
@@ -100,6 +101,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="5">φίλωνται· γλυκερή οἱ ἀπὸ στόματος ῥέει αὐδή. </l>
         <l n="6"><milestone unit="Para" ed="P"/>χαίρετε, τέκνα Διός, καὶ ἐμὴν τιμήσατʼ ἀοιδήν· </l>
         <l n="7">αὐτὰρ ἐγὼν ὑμέων τε καὶ ἄλλης μνήσομʼ ἀοιδῆς. </l>
+      </div>
       </div>
     </body>
   </text>

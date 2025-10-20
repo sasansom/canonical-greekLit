@@ -91,6 +91,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <body>
       
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg031.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg031.perseus-grc2" n="31">
       <head>Εἲς Ἥλιον</head>
     
 
@@ -115,6 +116,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="17"><milestone unit="Para" ed="P"/>χαῖρε, ἄναξ, πρόφρων δὲ βίον θυμήρεʼ ὄπαζε. </l>
         <l n="18">ἐκ σέο δʼ ἀρξάμενος κλῄσω μερόπων γένος ἀνδρῶν </l>
         <l n="19">ἡμιθέων, ὧν ἔργα θεαὶ θνητοῖσιν ἔδειξαν. </l>
+      </div>
       </div>
     </body>
   </text>

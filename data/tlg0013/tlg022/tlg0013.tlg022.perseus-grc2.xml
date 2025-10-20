@@ -91,6 +91,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg022.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg022.perseus-grc2" n="22">
         
       <head>Εἲς Ποσειδῶνα</head>
       
@@ -104,6 +105,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="6"><milestone unit="Para" ed="P"/>χαῖρε, Ποσείδαον γαιήοχε, κυανοχαῖτα, </l>
         <l n="7">καί, μάκαρ, εὐμενὲς ἦτορ ἔχων πλώουσιν ἄρηγε. </l>
       
+      </div>
       </div>
     </body>
   </text>

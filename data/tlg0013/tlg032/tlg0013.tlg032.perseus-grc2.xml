@@ -86,6 +86,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg032.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg032.perseus-grc2" n="32">
       <head>Εἲς Σελήνην</head>
      
 
@@ -110,6 +111,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="18">πρόφρον, ἐυπλόκαμος· σέο δʼ ἀρχόμενος κλέα φωτῶν </l>
         <l n="19">ᾁσομαι ἡμιθέων, ὧν κλείουσʼ ἔργματʼ ἀοιδοί, </l>
         <l n="20">Μουσάων θεράποντες, ἀπὸ στομάτων ἐροέντων. </l>
+      </div>
       </div>
     </body>
   </text>

@@ -92,6 +92,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg006.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg006.perseus-grc2" n="6">
       <head>Εἲς Ἀφροδίτην</head>
     
 
@@ -120,6 +121,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
        <l n="20">νίκην τῷδε φέρεσθαι, ἐμὴν δ’ ἔντυνον ἀοιδήν. </l>
        <l n="21">αὐτὰρ ἐγὼ καὶ σεῖο καὶ ἄλλης μνήσομ’ ἀοιδῆς.</l>
      
+      </div>
       </div>
     </body>
   </text>

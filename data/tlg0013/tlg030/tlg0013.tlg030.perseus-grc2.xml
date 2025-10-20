@@ -91,6 +91,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg030.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg030.perseus-grc2" n="30">
       <head>Εἲς Γῆν Μητέρα Πάντων</head>
       
 
@@ -114,6 +115,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="17"><milestone unit="Para" ed="P"/>χαῖρε, θεῶν μήτηρ, ἄλοχʼ Οὐρανοῦ ἀστερόεντος, </l>
         <l n="18">πρόφρων δʼ ἀντʼ ᾠδῆς βίοτον θυμήρεʼ ὄπαζε· </l>
         <l n="19">αὐτὰρ ἐγὼ καὶ σεῖο καὶ ἄλλης μνήσομʼ ἀοιδῆς. </l>
+      </div>
       </div>
     </body>
   </text>

@@ -92,6 +92,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg009.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg009.perseus-grc2" n="9">
       <head>Εἲς Ἄρτεμιν</head>
       
 
@@ -105,6 +106,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="7"><milestone unit="Para" ed="P"/>καὶ σὺ μὲν οὕτω χαῖρε θεαί θʼ ἅμα πᾶσαι ἀοιδῇ· </l>
         <l n="8">αὐτὰρ ἐγώ σε πρῶτα καὶ ἐκ σέθεν ἄρχομʼ ἀείδειν, </l>
         <l n="9">σεῦ δʼ ἐγὼ ἀρξάμενος μεταβήσομαι ἄλλον ἐς ὕμνον. </l>
+      </div>
       </div>
     </body>
   </text>

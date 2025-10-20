@@ -90,6 +90,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg012.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg012.perseus-grc2" n="12">
       <head>Εἲς Ἥραν</head>
       
 
@@ -100,6 +101,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="4">κυδρήν, ἣν πάντες μάκαρες κατὰ μακρὸν Ὄλυμπον </l>
         <l n="5">ἁζόμενοι τίουσιν ὁμῶς Διὶ τερπικεραύνῳ. </l>
       
+      </div>
       </div>
     </body>
   </text>

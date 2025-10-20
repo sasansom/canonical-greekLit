@@ -90,6 +90,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg011.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg011.perseus-grc2" n="11">
       <head>Εἲς Ἀθήναν</head>
     
 
@@ -100,6 +101,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="4">καί τʼ ἐρρύσατο λαὸν ἰόντα τε νισσόμενόν τε. </l>
         <l n="5"><milestone unit="Para" ed="P"/>χαῖρε, θεά, δὸς δʼ ἄμμι τύχην εὐδαιμονίην τε. </l>
 
+      </div>
       </div>
     </body>
   </text>

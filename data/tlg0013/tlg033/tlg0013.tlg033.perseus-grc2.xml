@@ -91,6 +91,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg033.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg033.perseus-grc2" n="33">
       
       <head>Εἲς Διοσκούρους</head>
      
@@ -116,6 +117,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="18"><milestone unit="Para" ed="P"/>χαίρετε, Τυνδαρίδαι, ταχέων ἐπιβήτορες ἵππων·  </l>
         <l n="19">αὐτὰρ ἐγὼν ὑμέων τε καὶ ἄλλης μνήσομ’ ἀοιδῆς.</l>
         
+      </div>
       </div>
     </body>
   </text>

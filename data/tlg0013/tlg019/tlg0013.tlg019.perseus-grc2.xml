@@ -86,6 +86,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg019.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg019.perseus-grc2" n="19">
       <head>Εἲς Πᾶνα</head>
 
       <milestone unit="card" n="1" ed="P"/>
@@ -138,6 +139,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-
       <l n="47">Πᾶνα δέ μιν καλέεσκον, ὅτι φρένα πᾶσιν ἔτερψε. </l>
       <l n="48"><milestone unit="Para" ed="P"/>καὶ σὺ μὲν οὕτω χαῖρε, ἄναξ, ἵλαμαι δέ σ’ ἀοιδῇ </l>
       <l n="49">αὐτὰρ ἐγὼ καὶ σεῖο καὶ ἄλλης μνήσομ’ ἀοιδῆς.</l>
+      </div>
       </div>
     </body>
   </text>

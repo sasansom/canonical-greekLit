@@ -91,6 +91,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg028.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg028.perseus-grc2" n="28">
       <head>Εἲς Ἀθήναν</head>
       
 
@@ -114,6 +115,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="17"><milestone unit="Para" ed="P"/>καὶ σὺ μὲν οὕτω χαῖρε, Διὸς τέκος αἰγιόχοιο·  </l>
         <l n="18">αὐτὰρ ἐγὼ καὶ σεῖο καὶ ἄλλης μνήσομ’ ἀοιδῆς.</l>
 
+      </div>
       </div>
     </body>
   </text>

@@ -91,6 +91,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <body>
       <head>Εἲς Ἀπόλλωνα</head>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg021.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg021.perseus-grc2" n="21">
 
         <milestone unit="card" n="1" ed="P"/>
         <l n="1"><milestone unit="Para" ed="P"/>φοῖβε, σὲ μὲν καὶ κύκνος ὑπὸ πτερύγων λίγʼ ἀείδει, </l>
@@ -99,6 +100,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="4">ἡδυεπὴς πρῶτόν τε καὶ ὕστατον αἰὲν ἀείδει. </l>
         <l n="5"><milestone unit="Para" ed="P"/>καὶ σὺ μὲν οὕτω χαῖρε, ἄναξ, ἵλαμαι δέ σʼ ἀοιδῇ.
         </l>
+      </div>
       </div> 
     </body>
   </text>

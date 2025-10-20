@@ -90,6 +90,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg020.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg020.perseus-grc2" n="20">
       <head>Εἲς Ἥφαιστον</head>
       
         <milestone unit="card" n="1" ed="P"/>
@@ -101,6 +102,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="6">ῥηιδίως αἰῶνα τελεσφόρον εἰς ἐνιαυτὸν </l>
         <l n="7">εὔκηλοι διάγουσιν ἐνὶ σφετέροισι δόμοισιν. </l>
         <l n="8"><milestone unit="Para" ed="P"/>ἀλλʼ ἵληθʼ, Ἥφαιστε· δίδου δʼ ἀρετήν τε καὶ ὄλβον. </l>
+      </div>
       </div>
     </body>
   </text>

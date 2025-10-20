@@ -90,6 +90,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg023.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg023.perseus-grc2" n="23">
       <head>Εἲς Ὕπατον Κρονίδην</head>
       
 
@@ -99,6 +100,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="3">ἐγκλιδὸν ἑζομένῃ πυκινοὺς ὀάρους ὀαρίζει. </l>
         <l n="4"><milestone unit="Para" ed="P"/>ἵληθʼ, εὐρύοπα Κρονίδη, κύδιστε μέγιστε. </l>
       
+      </div>
       </div>
     </body>
   </text>

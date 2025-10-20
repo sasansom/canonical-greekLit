@@ -81,6 +81,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-
   <text xml:lang="grc">
       <body>
          <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg001.perseus-grc2">
+         <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg001.perseus-grc2" n="1">
          <head>Εἲς Διώνυσον</head>
             <l n="1">
                <gap reason="lost"/>
@@ -109,6 +110,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-
             <l n="20">καὶ σὺ μὲν οὕτω χαῖρε, Διώνυσʼ εἰραφιῶτα, </l>
             <l n="21">σὺν μητρὶ Σεμέλῃ, ἥν περ καλέουσι Θυώνην. </l>
          </div>
+	 </div>
       </body>
   </text>
 </TEI>

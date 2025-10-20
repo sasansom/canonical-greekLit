@@ -91,6 +91,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text xml:lang="grc">
     <body>
       <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0013.tlg014.perseus-grc2">
+      <div type="textpart" subtype="poem" xml:base="urn:cts:greekLit:tlg0013.tlg014.perseus-grc2" n="14">
       <head>Εἲς Μητέρα Θεῶν</head>
      
         <milestone unit="card" n="1" ed="P"/>
@@ -101,6 +102,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="5">οὔρεά τʼ ἠχήεντα καὶ ὑλήεντες ἔναυλοι. </l>
         <l n="6"><milestone unit="Para" ed="P"/>καὶ σὺ μὲν οὕτω χαῖρε θεαί θʼ ἅμα πᾶσαι ἀοιδῇ.</l>
       
+      </div>
       </div>
     </body>
   </text>
