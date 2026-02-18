@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?> 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    
+<teiHeader xml:lang="eng">
 <fileDesc>
 <titleStmt>
 
-<title n="Tim." type="work">Timoleon</title>
-<author n="Plut.">Plutarch</author>
+    <title xml:lang="grc">Τιμολέων</title>
+<author>Plutarch</author>
 <editor>Bernadotte Perrin</editor>
 <sponsor>Perseus Project, Tufts University</sponsor>
 <principal>Gregory Crane</principal>
@@ -29,11 +31,8 @@
 
 <monogr>
 <author>Plutarch</author>
-<title>Plutarch's Lives</title><idno type="ISBN">0674991095</idno>
-<respStmt>
-<resp>with an English Translation by</resp>
-<name role="translator">Bernadotte Perrin</name>
-</respStmt>
+<title>Plutarch's Lives</title>
+    <editor>Bernadotte Perrin</editor> 
 <imprint>
 <pubPlace>Cambridge, MA</pubPlace>
 <publisher>Harvard University Press</publisher>
@@ -43,7 +42,10 @@
 </imprint>
 <biblScope unit="volume">6</biblScope>
 </monogr>
-
+    <series>
+        <title>Loeb Classical Library</title>
+    </series>
+    <ref target="https://archive.org/details/plutarchslives06plut/page/260/mode/2up">Internet Archive</ref>
 </biblStruct>
 </sourceDesc>
 </fileDesc>
@@ -179,7 +181,7 @@
 <div type="textpart" subtype="section" n="2"> <p> πέμπουσι δʼ οὖν εἰς τὸ Ταυρομένιον πρεσβευτὴν ἐπὶ τριήρους, ὃς πολλὰ διαλεχθεὶς πρὸς τὸν Ἀνδρόμαχον, ἐπαχθῶς καὶ βαρβαρικῶς ἀνατεινάμενος εἰ μὴ τὴν ταχίστην ἐκβάλλει τοὺς Κορινθίους, τέλος ὑπτίαν τὴν χεῖρα δείξας, εἶτʼ αὖθις καταστρέψας ἠπείλησε τοιαύτην οὖσαν αὐτῷ τὴν πόλιν τοιαύτην ποιήσειν.</p></div>
     <div type="textpart" subtype="section" n="3"> <p>γελάσας δʼ ὁ Ἀνδρόμαχος ἄλλο μὲν οὐδὲν ἀπεκρίνατο, τὴν δὲ χεῖρα νῦν μὲν ὑπτίαν, ὡς ἐκεῖνος, νῦν δὲ πρηνῆ προτείνας ἐκέλευσεν ἀποπλεῖν αὐτόν, εἰ μὴ βούλοιτο τὴν ναῦν ἀντὶ τοιαύτης γενέσθαι τοιαύτην. </p> </div> 
     <div type="textpart" subtype="section" n="4"> <p><milestone unit="para" resp="editor"/>ὁ δʼ Ἱκέτης πυθόμενος τὴν τοῦ Τιμολέοντος διάβασιν καὶ φοβηθείς μετεπέμψατο πολλὰς τῶν Καρχηδονίων τριήρεις.</p></div>
-<div type="textpart" subtype="section" n="5"> <p>ὅτε καὶ παντάπασι <pb n="paris.1624.241"/> <pb n="p.286"/> συνέβη τοὺς Συρακουσίους ἀπογνῶναι τὴν σωτηρίαν, ὁρῶντας τοῦ μὲν λιμένος αὐτῶν Καρχηδονίους κρατοῦντας, τὴν δὲ πόλιν Ἱκέτην ἔχοντα, τῆς δʼ ἄκρας κυριεύοντα Διονύσιον, Τιμολέοντα δὲ ὥσπερ ἐκ κρασπέδου τινὸς λεπτοῦ τῆς Ταυρομενιτῶν πολίχνης τῇ Σικελίᾳ προσηρτημένον ἐπʼ ἐλπίδος<note anchored="true" place="unspecified" resp="editor"> <foreign xml:lang="grc">ἐπʼ ἐλπίδος</foreign> Bekker has <foreign xml:lang="grc">ἀπʼ ἐλπίδος</foreign>, after Coraës.</note> ἀσθενοῦς καὶ βραχείας δυνάμεως· χιλίων γὰρ αὐτῷ στρατιωτῶν καὶ τροφῆς τούτοις ἀναγκαίας πλέον οὐδὲν ὑπῆρχεν.</p> </div> 
+    <div type="textpart" subtype="section" n="5"> <p>ὅτε καὶ παντάπασι <pb n="paris.1624.241"/> <pb n="p.286"/> συνέβη τοὺς Συρακουσίους ἀπογνῶναι τὴν σωτηρίαν, ὁρῶντας τοῦ μὲν λιμένος αὐτῶν Καρχηδονίους κρατοῦντας, τὴν δὲ πόλιν Ἱκέτην ἔχοντα, τῆς δʼ ἄκρας κυριεύοντα Διονύσιον, Τιμολέοντα δὲ ὥσπερ ἐκ κρασπέδου τινὸς λεπτοῦ τῆς Ταυρομενιτῶν πολίχνης τῇ Σικελίᾳ προσηρτημένον ἐπʼ ἐλπίδος<note anchored="true" place="unspecified" resp="editor"> <foreign xml:lang="grc">ἐπ’ ἐλπίδος</foreign> Bekker has <foreign xml:lang="grc">ἀπ’ ἐλπίδος</foreign>, after Coraës.</note> ἀσθενοῦς καὶ βραχείας δυνάμεως· χιλίων γὰρ αὐτῷ στρατιωτῶν καὶ τροφῆς τούτοις ἀναγκαίας πλέον οὐδὲν ὑπῆρχεν.</p> </div> 
 <div type="textpart" subtype="section" n="6"> <p> οὐδʼ ἐπίστευον αἱ πόλεις διάπλεαι κακῶν οὖσαι καὶ πρὸς ἅπαντας ἀπηγριωμέναι τοὺς ἡγουμένους στρατοπέδων, μάλιστα διὰ τὴν Καλλίππου καὶ Φάρακος ἀπιστίαν, ὧν ὁ μὲν Ἀθηναῖος ὤν, ὁ δὲ Λακεδαιμόνιος, ἀμφότεροι δὲ φάσκοντες ὑπὲρ τῆς ἐλευθερίας ἥκειν καὶ καταλύειν τοὺς μονάρχους, χρυσὸν ἀπέδειξαν<note anchored="true" place="unspecified" resp="editor"> <foreign xml:lang="grc">ἀπέδειξαν</foreign> Blass, after Hemsterhuis: <foreign xml:lang="grc">ἔδειξαν</foreign>.</note> τῇ Σικελίᾳ τὰς ἐν τῇ τυραννίδι συμφοράς καὶ μακαριωτέρους δοκεῖν ἐποίησαν τοὺς καταστρέψαντας ἐν τῇ δουλείᾳ τῶν ἐπιδόντων τὴν αὐτονομίαν.</p> </div> </div> 
 <div type="textpart" subtype="chapter" n="12"> 
 <div type="textpart" subtype="section" n="1"> <p> οὐδὲν οὖν ἐκείνων βελτίονα τὸν Κορίνθιον ἔσεσθαι προσδοκῶντες, ἀλλὰ ταῦτα πάλιν ἥκειν πρὸς αὐτοὺς σοφίσματα καί δελεάσματα, μετʼ ἐλπίδων χρηστῶν καί φιλανθρώπων ὑποσχέσεων εἰς μεταβολὴν δεσπότου καινοῦ τιθασευομένους, ὑπώπτευον καί διεκρούοντο τὰς τῶν Κορινθίων προκλήσεις πλὴν Ἀδρανιτῶν, </p> </div> 

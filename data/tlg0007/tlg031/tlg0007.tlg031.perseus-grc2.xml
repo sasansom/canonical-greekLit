@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+<teiHeader xml:lang="eng">
 <fileDesc>
 <titleStmt>
 
-<title n="Mar." type="work">Caius Marius</title>
-<author n="Plut.">Plutarch</author>
-<editor>Bernadotte
-            Perrin</editor>
+<title xml:lang="grc">Γάιος Μάριος</title>
+<author>Plutarch</author>
+<editor>Bernadotte Perrin</editor>
 <sponsor>Perseus Project, Tufts University</sponsor>
 <principal>Gregory Crane</principal>
 <respStmt>
 <resp>Prepared under the supervision of</resp>
-<name>Lisa Cerrato</name>
-<name>William Merrill</name>
-<name>Elli Mylonas</name>
-<name>David Smith</name>
+   <name>Lisa Cerrato</name>
+   <name>Rashmi Singhal</name>
+   <name>Bridget Almas</name>
 </respStmt>
 <funder n="org:NEH">The National Endowment for the Humanities</funder>
 </titleStmt>
@@ -25,17 +23,19 @@
 <publisher>Trustees of Tufts University</publisher>
 <pubPlace>Medford, MA</pubPlace>
 <authority>Perseus Project</authority>
+<date type="release" when="2010-12-13">Perseus 4.0</date>
+   <idno type="filename">tlg0007.tlg031.perseus-grc2.xml</idno>
+   <availability>
+      <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>   
+   </availability>
 </publicationStmt>
 <sourceDesc>
 <biblStruct>
 
 <monogr>
 <author>Plutarch</author>
-<title>Plutarch's Lives</title><idno type="ISBN">0674991125</idno>
-<respStmt>
-<resp>with an English Translation by</resp>
-<name role="translator">Bernadotte Perrin</name>
-</respStmt>
+<title>Plutarch's Lives</title>
+   <editor>Bernadotte Perrin</editor>
 <imprint>
 <pubPlace>Cambridge, MA</pubPlace>
 <publisher>Harvard University Press</publisher>
@@ -45,7 +45,7 @@
 </imprint>
 <biblScope unit="volume">9</biblScope>
 </monogr>
-
+   <ref target="https://archive.org/details/plutarchslives09plut/page/346/mode/2up">Internet Archive</ref>  
 </biblStruct>
 </sourceDesc>
 </fileDesc>
@@ -329,7 +329,7 @@
 <div type="textpart" subtype="section" n="7"><p> εὐθὺς οὖν ἁλιάδος ἐπιβάντες εἰς Κέρκιναν διεπέρων, νῆσον ἀπέχουσαν οὐ πολὺ τῆς ἠπείρου· καὶ τοσοῦτον ἔφθασαν ὅσον ἀνηγμένων αὐτῶν ἱππεῖς ὁρᾶσθαι παρὰ τοῦ βασιλέως ἐλαύνοντας ἐπὶ τὸν τόπον ὅθεν ἀνήχθησαν. τοῦτον οὐδενὸς ἐλάττονα κίνδυνον ἔδοξεν ἐκφυγεῖν ὁ Μάριος.</p></div></div> 
 <div type="textpart" subtype="chapter" n="41"> 
    <div type="textpart" subtype="section" n="1"><p> ἐν δὲ Ῥώμῃ Σύλλας μὲν ἠκούετο τοῖς Μιθριδάτου πολεμεῖν στρατηγοῖς περὶ Βοιωτίαν, οἱ δὲ ὕπατοι στασιάσαντες ἐχώρουν εἰς ὅπλα. καὶ μάχης γενομένης Ὀκτάβιος μὲν κρατήσας ἐξέβαλε Κίνναν ἐπιχειροῦντα τυραννικώτερον ἄρχειν, καὶ κατέστησεν ἀντʼ αὐτοῦ Κορνήλιον Μερούλλαν ὕπατον, ὁ δὲ Κίννας ἐκ τῆς ἄλλης Ἰταλίας συναγαγὼν δύναμιν αὖθις διεπολέμει πρὸς αὐτούς.</p></div> 
-<div type="textpart" subtype="section" n="2"><p> ταῦτα τῷ Μαρίῳ πυνθανομένῳ πλεῦσαι τὴν ταχίστην ἐφαίνετο· καὶ παραλαβὼν ἐκ τῆς Λιβύης Μαυρουσίων τινὰς ἱππότας καὶ τῶν ἀπὸ τῆς Ἰταλίας τινὰς καταφερομένων, συναμφοτέρους οὐ πλείονας χιλίων γενομένους, ἀνήχθη. προσβαλὼυ δὲ<note resp="editor" place="unspecified" anchored="true" xml:lang="eng"> <foreign xml:lang="grc">ἀνήχθη</foreign>. <foreign xml:lang="grc">προσβαλὼν δὲ</foreign> with Coraës: <foreign xml:lang="grc">μεθʼ ὧν ἀνήχθη, προσβαλών</foreign>.</note> Τελαμῶνι τῆς Τυρρηνίας καὶ ἀποβὰς ἐκήρυττε δούλοις ἐλευθερίαν· καὶ τῶν αὐτόθι γεωργούντων καὶ νεμόντων ἐλευθέρων κατὰ δόξαν αὐτοῦ συντρεχόντων ἐπὶ τὴν θάλασσαν ἀναπείθων τοὺς ἀκμαιοτάτους ἐν ἡμέραις ὀλίγαις χεῖρα μεγάλην ἤθροισε καὶ τεσσαράκοντα ναῦς ἐπλήρωσεν.</p></div> 
+   <div type="textpart" subtype="section" n="2"><p> ταῦτα τῷ Μαρίῳ πυνθανομένῳ πλεῦσαι τὴν ταχίστην ἐφαίνετο· καὶ παραλαβὼν ἐκ τῆς Λιβύης Μαυρουσίων τινὰς ἱππότας καὶ τῶν ἀπὸ τῆς Ἰταλίας τινὰς καταφερομένων, συναμφοτέρους οὐ πλείονας χιλίων γενομένους, ἀνήχθη. προσβαλὼυ δὲ<note resp="editor" place="unspecified" anchored="true" xml:lang="eng"> <foreign xml:lang="grc">ἀνήχθη</foreign>. <foreign xml:lang="grc">προσβαλὼν δὲ</foreign> with Coraës: <foreign xml:lang="grc">μεθ’ ὧν ἀνήχθη, προσβαλών</foreign>.</note> Τελαμῶνι τῆς Τυρρηνίας καὶ ἀποβὰς ἐκήρυττε δούλοις ἐλευθερίαν· καὶ τῶν αὐτόθι γεωργούντων καὶ νεμόντων ἐλευθέρων κατὰ δόξαν αὐτοῦ συντρεχόντων ἐπὶ τὴν θάλασσαν ἀναπείθων τοὺς ἀκμαιοτάτους ἐν ἡμέραις ὀλίγαις χεῖρα μεγάλην ἤθροισε καὶ τεσσαράκοντα ναῦς ἐπλήρωσεν.</p></div> 
    <div type="textpart" subtype="section" n="3"><p><milestone unit="para"/>εἰδὼς δὲ τὸν μὲν Ὀκτάβιον ἄριστον ἄνδρα καὶ τῷ δικαιοτάτῳ τρόπῳ βουλόμενον ἄρχειν, τὸν δὲ Κίνναν ὕποπτόν τε τῷ Σύλλᾳ καὶ πολεμοῦντα τῇ <pb n="p.580"/> καθεστώσῃ πολιτείᾳ, τούτῳ προσνέμειν ἑαυτὸν ἔγνω μετὰ τῆς δυνάμεως, ἔπεμψεν οὖν ἐπαγγελλόμενος ὡς ὑπάτῳ πάντα ποιήσειν τὰ προστασσόμενα. δεξαμένου δὲ τοῦ Κίννα καὶ προσαγορεύσαντος αὐτὸυ ἀνθύπατον, ῥάβδους δὲ καὶ <pb n="paris.1624.430"/> τἆλλα παράσημα τῆς ἀρχῆς ἀποστείλαντος, οὐκ ἔφη πρέπειν αὐτοῦ ταῖς τύχαις τὸν κόσμον, </p></div> 
 <div type="textpart" subtype="section" n="4"><p> ἀλλʼ ἐσθῆτι φαύλῃ κεχρημένος καὶ κομῶν ἀφʼ ἧς ἔφυγεν ἡμέρας, ὑπὲρ ἑβδομήκοντα γεγονὼς ἔτη βάδην προσῄει, βουλόμενος μὲν ἐλεεινὸς εἶναι, τῷ δὲ οἴκτῳ συμμέμικτο τὸ οἰκεῖον τῆς ὄψεως αὐτοῦ πλέον τὸ φοβερόν, καὶ διέφαινεν ἡ κατήφεια τὸν θυμὸν οὐ τεταπεινωμένον, ἀλλʼ ἐξηγριωμένον ὑπὸ τῆς μεταβολῆς.</p></div></div> 
 <div type="textpart" subtype="chapter" n="42"> 
