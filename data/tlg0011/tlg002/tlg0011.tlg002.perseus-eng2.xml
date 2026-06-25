@@ -795,8 +795,7 @@
                     <sp>
                         <speaker>Chorus</speaker>
                         <l n="354" resp="p">Speech and thought fast as
-                                the </l>
-                        <l n="355" resp="p">wind and the moods that
+                                the wind and the moods that
                             give order to a city he has taught himself, and how to flee the arrows
                             of the inhospitable frost under clear skies and the arrows of the
                             storming rain. </l>
@@ -2687,9 +2686,8 @@
                 
 
                 <milestone unit="card" n="1278"/>
-                    <sp>
-                         <stage rend="italic">Enter the Messenger from the house.</stage> 
-                    </sp>
+                <stage rend="italic">Enter the Messenger from the house.</stage> 
+                
                     <sp>
                         <speaker>Messenger</speaker>
                         <l n="1278" resp="p">My master, you have come, I
@@ -2733,10 +2731,9 @@
                 
 
                 <milestone unit="card" n="1293"/>
-                    <sp>
-                         <stage rend="italic">The doors of the palace are opened, and the corpse of Eurydice is
+                 <stage rend="italic">The doors of the palace are opened, and the corpse of Eurydice is
                             disclosed.</stage> 
-                    </sp>
+                
                     <sp>
                         <speaker>Chorus</speaker>
                         <l n="1293" resp="p">The sight is at hand. It is no longer hidden inside.</l>

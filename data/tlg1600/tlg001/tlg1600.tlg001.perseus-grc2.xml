@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/8.19/tei-epidoc.rng"
-schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/8.19/tei-epidoc.rng"
-schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -734,7 +732,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       προστέτηκας, ἀλλʼ ἐκτυπῶσάν σε τὸ ὕδωρ, οἷον εἶδες αὐτό, οὐκ οἶσθα, οὔτε τὸ τῆς πηγῆς ἐλέγχεις
       σόφισμα, νεῦσαι δέον καὶ παρατρέψαι τοῦ εἴδους καὶ τὴν χεῖρα ὑποκινῆσαι καὶ μὴ ἐπὶ ταὐτοῦ
       ἑστάναι, σὺ δʼ, ὥσπερ ἑταίρῳ ἐντυχὼν τἀκεῖθεν περιμένεις. εἶτά σοι ἡ πηγὴ μύθῳ χρήσεται; οὗτος
-      μὲν οὖν οὐδ’ ἐπαίει τι ἡμῶν, ἀλλ̓ἐμπέπτωκεν ἐπὶ τὸ ὕδωρ αὐτοῖς ὠσὶ καὶ αὐτοῖς ὄμμασιν, αὐτοὶ δὲ
+      μὲν οὖν οὐδ’ ἐπαίει τι ἡμῶν, ἀλλʼ ἐμπέπτωκεν ἐπὶ τὸ ὕδωρ αὐτοῖς ὠσὶ καὶ αὐτοῖς ὄμμασιν, αὐτοὶ δὲ
       ἡμεῖς, ὥσπερ γέγραπται, λέγωμεν. ὀρθὸν ἀναπαύεται ἐναλλάξαν τὼ πόδε τὸ μειράκιον καὶ <del>τὴν
        χεῖρα</del> ὑπέχον πεπηγότι τῷ ἀκοντίῳ ἐν ἀριστερᾷ, ἡ δεξιὰ δὲ περιῆκται ἐς τὸ ἰσχίον
       ἀνασχεῖν τε αὐτὸν καὶ σχῆμα πράττειν ἐκκειμένων τῶν γλουτῶν διὰ τὴν τῶν ἀριστερῶν ἔκκλισιν.
